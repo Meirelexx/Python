@@ -1,5 +1,0 @@
-1;Interestelar;Ficção;2014
-2;Breaking Bad;Série;2008
-3;Batman;Ação;2022
-4;Avatar;Ficção;2009
-5;The Last of Us;Série;2023
