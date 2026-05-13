@@ -1,0 +1,2 @@
+nome;senha
+vini;123
