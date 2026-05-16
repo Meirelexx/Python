@@ -1,0 +1,185 @@
+1;A Barraca do Beijo;Romance;2018
+2;A Freira;Terror;2018
+3;A Guerra do Amanhã;Ficção;2021
+4;A Origem;Ficção;2010
+5;After: Depois da Promessa;Romance;2022
+6;Agente Oculto;Ação;2022
+7;Ahsoka;Série;2023
+8;Alerta Vermelho;Ação;2021
+9;Alien;Terror;1979
+10;American Horror Story;Terror;2011
+11;Animais Fantásticos;Fantasia;2016
+12;Annabelle;Terror;2014
+13;Anne with an E;Drama;2017
+14;Arcane;Animação;2021
+15;Army of the Dead;Terror;2021
+16;As Crônicas de Nárnia;Fantasia;2005
+17;Avatar;Ficção;2009
+18;Avatar: O Caminho da Água;Ficção;2022
+19;Batman;Ação;2022
+20;Besouro Azul;Ação;2023
+21;Bird Box;Suspense;2018
+22;Black Mirror;Série;2011
+23;Blade Runner 2049;Ficção;2017
+24;Bluey;Infantil;2018
+25;BoJack Horseman;Animação;2014
+26;Breaking Bad;Série;2008
+27;Bridgerton;Romance;2020
+28;Brooklyn Nine-Nine;Comédia;2013
+29;Capitão América Guerra Civil;Ação;2016
+30;Capitão América: Guerra Civil;Ação;2016
+31;Carros;Animação;2006
+32;Cidade de Deus;Drama;2002
+33;Clube da Luta;Drama;1999
+34;Cobra Kai;Série;2018
+35;Como Treinar Seu Dragão;Animação;2010
+36;Continência ao Amor;Romance;2022
+37;Corra!;Terror;2017
+38;Creed III;Drama;2023
+39;Crepúsculo;Romance;2008
+40;Cruella;Crime;2021
+41;Dark;Série;2017
+42;Deadpool;Ação;2016
+43;Divergente;Ficção;2014
+44;Divertida Mente;Animação;2015
+45;Doutor Estranho;Fantasia;2016
+46;Duna;Ficção;2021
+47;Elementos;Animação;2023
+48;Elite;Série;2018
+49;Encanto;Animação;2021
+50;Enola Holmes;Mistério;2020
+51;Fallout;Série;2024
+52;Fragmentado;Suspense;2016
+53;Friends;Comédia;1994
+54;Frozen;Animação;2013
+55;Frozen 2;Animação;2019
+56;Gen V;Série;2023
+57;Ginny e Georgia;Drama;2021
+58;Glass Onion;Mistério;2022
+59;Godzilla vs Kong;Ação;2021
+60;Good Omens;Fantasia;2019
+61;Gravity Falls;Animação;2012
+62;Guardiões da Galáxia;Ficção;2014
+63;Guardiões da Galáxia Vol. 3;Ficção;2023
+64;Hamilton;Musical;2020
+65;Hannibal;Suspense;2013
+66;Harry Potter e a Pedra Filosofal;Fantasia;2001
+67;Harry Potter e as Relíquias da Morte;Fantasia;2011
+68;Heartstopper;Romance;2022
+69;Homem-Aranha;Ação;2002
+70;Homem-Aranha no Aranhaverso;Animação;2018
+71;Hotel Transilvânia;Animação;2012
+72;House;Série;2004
+73;How I Met Your Mother;Comédia;2005
+74;Interestelar;Ficção;2014
+75;Invencível;Animação;2021
+76;Invocação do Mal;Terror;2013
+77;It: A Coisa;Terror;2017
+78;Jack Ryan;Série;2018
+79;Jogos Vorazes;Ação;2012
+80;John Wick;Ação;2014
+81;John Wick 2;Ação;2017
+82;John Wick 3;Ação;2019
+83;John Wick 4;Ação;2023
+84;Jurassic Park;Aventura;1993
+85;Jurassic World;Aventura;2015
+86;King Kong;Aventura;2005
+87;Kung Fu Panda;Animação;2008
+88;La Casa de Papel;Série;2017
+89;Lightyear;Ficção;2022
+90;Logan;Drama;2017
+91;Loki;Série;2021
+92;Luca;Animação;2021
+93;Lucifer;Série;2016
+94;Lupin;Série;2021
+95;Manifest;Série;2018
+96;Matrix;Ficção;1999
+97;Matrix Reloaded;Ficção;2003
+98;Maze Runner;Ficção;2014
+99;Minha Culpa;Romance;2023
+100;Missão Impossível;Ação;1996
+101;Mistério no Mediterrâneo;Comédia;2019
+102;Moana;Animação;2016
+103;Narcos;Série;2015
+104;Não Olhe Para Cima;Comédia;2021
+105;O Gambito da Rainha;Drama;2020
+106;O Hobbit;Fantasia;2012
+107;O Lobo de Wall Street;Drama;2013
+108;O Pacto;Guerra;2023
+109;O Poço;Suspense;2019
+110;O Senhor dos Anéis;Fantasia;2001
+111;O Senhor dos Anéis: Os Anéis de Poder;Fantasia;2022
+112;Obi-Wan Kenobi;Série;2022
+113;Oppenheimer;Drama;2023
+114;Os Incríveis;Animação;2004
+115;Os Simpsons;Animação;1989
+116;Outer Banks;Série;2020
+117;Ozark;Série;2017
+118;Pacific Rim;Ficção;2013
+119;Pantera Negra;Ação;2018
+120;Para Todos os Garotos que Já Amei;Romance;2018
+121;Peaky Blinders;Série;2013
+122;Percy Jackson;Fantasia;2010
+123;Percy Jackson e os Olimpianos;Série;2023
+124;Phineas e Ferb;Animação;2007
+125;Piratas do Caribe;Aventura;2003
+126;Predador;Ação;1987
+127;Prison Break;Série;2005
+128;Procurando Nemo;Animação;2003
+129;Projeto Adam;Ficção;2022
+130;Queen Charlotte;Drama;2023
+131;Ratatouille;Animação;2007
+132;Reacher;Série;2022
+133;Red: Crescer é uma Fera;Animação;2022
+134;Resgate;Ação;2020
+135;Resgate 2;Ação;2023
+136;Rick and Morty;Animação;2013
+137;Round 6;Série;2021
+138;Saltburn;Drama;2023
+139;Sem Remorso;Ação;2021
+140;Seven;Suspense;1995
+141;Sex Education;Série;2019
+142;Shadowhunters;Fantasia;2016
+143;Shrek;Animação;2001
+144;Shrek 2;Animação;2004
+145;Sorria;Terror;2022
+146;Soul;Animação;2020
+147;Sr. e Sra. Smith;Série;2024
+148;Star Wars: A Guerra dos Clones;Animação;2008
+149;Stranger Things;Série;2016
+150;Suits;Série;2011
+151;Supernatural;Série;2005
+152;Teen Wolf;Série;2011
+153;Tenet;Ficção;2020
+154;The Boys;Série;2019
+155;The Continental;Série;2023
+156;The Crown;Drama;2016
+157;The Last of Us;Série;2023
+158;The Mandalorian;Série;2019
+159;The Office;Comédia;2005
+160;The Vampire Diaries;Série;2009
+161;The Walking Dead;Série;2010
+162;The Witcher;Fantasia;2019
+163;Thor Ragnarok;Ação;2017
+164;Thor: Ragnarok;Ação;2017
+165;Top Gun Maverick;Ação;2022
+166;Top Gun: Maverick;Ação;2022
+167;Toy Story;Animação;1995
+168;Toy Story 4;Animação;2019
+169;Transformers;Ficção;2007
+170;Transformers: O Despertar das Feras;Ficção;2023
+171;Tudo em Todo Lugar ao Mesmo Tempo;Ficção;2022
+172;Up Altas Aventuras;Animação;2009
+173;Up: Altas Aventuras;Animação;2009
+174;Upload;Comédia;2020
+175;Velozes e Furiosos 10;Ação;2023
+176;Vikings;Série;2013
+177;Vingadores Ultimato;Ação;2019
+178;Vingadores: Ultimato;Ação;2019
+179;WandaVision;Série;2021
+180;Wandinha;Série;2022
+181;What If...?;Animação;2021
+182;Wish;Fantasia;2023
+183;X-Men 97;Animação;2024
+184;You;Série;2018
+185;Zootopia;Animação;2016
